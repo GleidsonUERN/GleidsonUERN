@@ -9,9 +9,27 @@ Tenho doutorado em Neurociências pelo Instituto do Cérebro - ICe da Universida
 ## Linguagens de Programação com as quais trabalhamos.
 
 <div style="display: inline_block"><br>
-<img align="center" alt="gleidson-Spss" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-plain.svg"/>
-<img align="center" alt="gleidson-Matlab" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
-<img align="center" alt="gleidson-R" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
-<img align="center" alt="gleidson-Latex" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
+<img align="center" alt="gleidson-Spss" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-plain.svg"/>&nbsp;&nbsp;
+<img align="center" alt="gleidson-Matlab" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>&nbsp;&nbsp;
+<img align="center" alt="gleidson-R" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>&nbsp;&nbsp;&nbsp;
+<img align="center" alt="gleidson-Latex" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>&nbsp;&nbsp;
 
+</div>
+
+## Ferramentas utilizadas pelo grupo.
+ 
+<div style="display: inline_block"><br>
+<img align="center" alt="gleidson-RStudio" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"/>
+<img align="center" alt="gleidson-Github" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<img align="center" alt="gleidson-markdown" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
+
+</div>
+
+  ##
+  ##
+  
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/GleidsonUERN/github-profile-views-counter">
+       <img width="200px" src="https://komarev.com/ghpvc/?username=GleidsonUERN&color=DE002D">
+   </a>
 </div>
