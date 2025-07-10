@@ -1,3 +1,7 @@
+<img width="2976" height="651" alt="Image" src="https://github.com/user-attachments/assets/68a65a19-5ba9-472c-a9b9-b632bedf8873" />
+
+
+
 ## Bem vindo! 👋
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F71616&center=true&vCenter=true&width=900&height=60&lines=Ol%C3%A1+visitante+ou+aluno(a)!;Sou+o+Prof.+Dr.+Gleidson+M.+Rebou%C3%A7as.;V%C3%A1+at%C3%A9+o+reposit%C3%B3rio+do+seu+interesse." alt="Typing SVG" /></a>
