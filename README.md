@@ -15,6 +15,7 @@ Tenho doutorado em Neurociências pelo Instituto do Cérebro (ICe) da Universida
 <img align="center" alt="gleidson-Matlab" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>&nbsp;&nbsp;
 <img align="center" alt="gleidson-R" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>&nbsp;&nbsp;&nbsp;
 <img align="center" alt="gleidson-Latex" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>&nbsp;&nbsp;
+<img align="center" alt="gleidson-python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 
 </div>
 
@@ -24,6 +25,8 @@ Tenho doutorado em Neurociências pelo Instituto do Cérebro (ICe) da Universida
 <img align="center" alt="gleidson-RStudio" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"/>&nbsp;&nbsp;
 <img align="center" alt="gleidson-Github" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />&nbsp;&nbsp;
 <img align="center" alt="gleidson-Markdown" height="110" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />&nbsp;&nbsp;
+<img align="center" alt="gleidson-VScode" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />&nbsp;&nbsp;
+<img align="center" alt="gleidson-Jupyter" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
 
 </div>
 </div>
