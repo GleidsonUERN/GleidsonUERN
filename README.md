@@ -21,9 +21,9 @@ Tenho doutorado em Neurociências pelo Instituto do Cérebro - ICe da Universida
 ## Ferramentas utilizadas pelo grupo.
  
 <div style="display: inline_block"><br>
-<img align="center" alt="gleidson-RStudio" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"/>
-<img align="center" alt="gleidson-Github" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-<img align="center" alt="gleidson-Markdown" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
+<img align="center" alt="gleidson-RStudio" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"/>&nbsp;&nbsp;
+<img align="center" alt="gleidson-Github" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />&nbsp;&nbsp;
+<img align="center" alt="gleidson-Markdown" height="110" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />&nbsp;&nbsp;
 
 </div>
 </div>
